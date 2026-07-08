@@ -51,3 +51,54 @@
 <br clear="right"/>
 
 ---
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,flask,tensorflow,pytorch,opencv,postgresql,mysql,git,github,vscode,docker,linux&perline=8"/>
+
+</div>
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+---
+
+# 🤖 AI & Machine Learning
+
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 👁️ Computer Vision
+- 🖼️ Image Processing
+- 🧬 Convolutional Neural Networks (CNNs)
+- 📊 Data Preprocessing
+- 📈 Model Evaluation
+- ⚙️ Hyperparameter Tuning
+- 🔬 TensorFlow & Keras
+- 🐼 Pandas & NumPy
+- 🎯 Scikit-Learn
+
+---
+
+# 🌱 Currently Learning
+
+- 🚀 Large Language Models (LLMs)
+- 🧠 Agentic AI
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🤝 Multi-Agent Systems
+- ☁️ Cloud AI Deployment
+- 📦 Docker & MLOps
+- ⚡ FastAPI
+- 🔥 Generative AI
+
+---
