@@ -102,3 +102,124 @@
 - 🔥 Generative AI
 
 ---
+# 🌟 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🔍 FindBuddy
+
+### AI-Powered Missing Person Identification System
+
+An intelligent AI platform that identifies missing persons using Computer Vision and Face Recognition.
+
+### 🚀 Features
+
+- 👤 Face Recognition
+- 🎥 Live Camera Detection
+- 🧠 AI Matching
+- 🌍 GPS Location Tracking
+- 📱 User Friendly Interface
+- 🔐 Admin Dashboard
+- ⚡ Real-Time Alerts
+
+### 🛠 Tech Stack
+
+Python • Flask • OpenCV • TensorFlow • PostgreSQL
+
+</td>
+
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d9b3e8f-1dc5-4623-bcb0-64f9d2fef963.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 OmniMind
+
+### Next Generation AI Assistant
+
+An intelligent multi-agent AI assistant capable of reasoning, memory, vision and automation.
+
+### 🚀 Features
+
+- 🧠 Multi-Agent AI
+- 💬 LLM Integration
+- 📚 RAG
+- 👁 Vision AI
+- 🎤 Voice Assistant
+- 🧩 Long-Term Memory
+- ⚡ Workflow Automation
+
+### 🛠 Tech Stack
+
+Python • FastAPI • LangChain • Vector DB • OpenAI
+
+</td>
+
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/213760697-f5f7f9b3-d66d-4f4d-bf2b-f34f74f0cb4b.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🚨 SOS Alert System
+
+### Smart Emergency Response Application
+
+A mobile application that instantly shares emergency alerts and live location with trusted contacts.
+
+### 🚀 Features
+
+- 🚨 One-Tap SOS
+- 📍 Live GPS Location
+- 📱 Android Application
+- 🌐 Flask Backend
+- 🔔 Emergency Notifications
+- ⚡ Real-Time Communication
+
+### 🛠 Tech Stack
+
+Android Studio • Java • Flask • Google Maps API
+
+</td>
+
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/213760708-6f4a0d3c-1b16-43cf-90bb-38d1cfc8d3d.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 Career Goal
+
+> **"To build intelligent AI systems that solve real-world problems and create meaningful impact through innovation, research, and technology."**
+
+---
+
