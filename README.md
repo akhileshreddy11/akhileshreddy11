@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhileshreddy11/akhileshreddy11/main/banner.png" width="100%" alt="Banner">
+</p>
 # 👋 Hi, I'm Akhilesh Reddy Thirumala Reddy
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Building+Real+World+AI+Solutions;Always+Learning+Something+New" />
