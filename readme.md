@@ -145,27 +145,27 @@ Python • FastAPI • LangChain • OpenAI
 <h2 align="center">🌱 Crop Disease AI</h2>
 
 <p align="center">
+<img src="assets/projects/crop-disease-ai.png" width="100%">
+</p>
 
-<img src="assets/projects/crop-disease-ai.png" width="100%"/>
+<p align="center">
+<b>AI-Powered Crop Disease Detection System</b><br>
+Deep Learning application that detects plant diseases from leaf images and provides predictions to support smarter farming.
+</p>
 
+<p align="center">
+Python • TensorFlow • Flask • OpenCV • CNN
 </p>
 
 <p align="center">
 
-Deep Learning system for crop disease detection and remedy prediction.
-
-</p>
-
-<p align="center">
-
-Python • TensorFlow • OpenCV • Flask
+<a href="https://github.com/akhileshreddy11/Crop_disease_detection">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </p>
 
 </td>
-
-<td width="50%">
-
 <h2 align="center">📄 AI Code Documentation</h2>
 
 <p align="center">
