@@ -1,7 +1,7 @@
 <!-- ====================================================== -->
 <!--                  AKHILESH OS v2.0                       -->
 <!-- ====================================================== -->
-##phase1
+#phase1
 <p align="center">
   <img src="https://raw.githubusercontent.com/akhileshreddy11/akhileshreddy11/main/banner.png" width="100%" alt="Banner"/>
 </p>
@@ -155,6 +155,148 @@ Artificial Intelligence
 Research
 
 Open Source
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                      -->
+<!-- ====================================================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+The projects that best represent my passion for Artificial Intelligence and real-world software engineering.
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔍 FindBuddy
+
+### AI Missing Person Identification System
+
+An AI-powered platform that helps identify missing persons using Computer Vision and Face Recognition.
+
+### ✨ Features
+
+- 🎥 Live Camera Detection
+- 👤 Face Recognition
+- 📍 GPS Location Tracking
+- 🔔 Instant Alerts
+- 🛡 Admin Dashboard
+
+### 🛠 Tech Stack
+
+Python • Flask • OpenCV • TensorFlow • PostgreSQL
+
+<br>
+
+<a href="YOUR_FINDBUDDY_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="assets/findbuddy.png" width="95%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="assets/omnimind.png" width="95%"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 OmniMind
+
+### Multi-Agent AI Assistant
+
+A next-generation AI ecosystem combining memory, reasoning, vision, voice and automation.
+
+### ✨ Features
+
+- 🧠 Long-Term Memory
+- 🎙 Voice Assistant
+- 👁 Vision AI
+- 📚 RAG
+- 🤖 Multi-Agent Collaboration
+
+### 🛠 Tech Stack
+
+Python • FastAPI • LangChain • OpenAI • Vector Database
+
+<br>
+
+<a href="YOUR_OMNIMIND_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚨 SOS Alert
+
+### Emergency Response Application
+
+An Android application that sends emergency alerts and live location to trusted contacts.
+
+### ✨ Features
+
+- 🚨 One-Tap SOS
+- 📍 Live GPS
+- 📱 Android App
+- 🌐 Flask Backend
+
+### 🛠 Tech Stack
+
+Android • Java • Flask • Google Maps API
+
+<br>
+
+<a href="YOUR_SOS_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="assets/sos.png" width="95%"/>
 
 </td>
 
