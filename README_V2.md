@@ -457,21 +457,6 @@ Continuous learning and hands-on experience in Artificial Intelligence and Softw
 | 🚀 Goal | AI Engineer • Open Source Contributor • MS in AI |
 
 ---
-
-<!-- ====================================================== -->
-<!--                  CONTRIBUTIONS                         -->
-<!-- ====================================================== -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshreddy11&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 <!-- ====================================================== -->
 <!--                  CURRENT MISSION                       -->
 <!-- ====================================================== -->
