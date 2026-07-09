@@ -279,3 +279,37 @@ Machine Learning • Deep Learning • Computer Vision • CNN • Image Process
 </p>
 
 ---
+
+<!-- ====================================================== -->
+<!--                  GITHUB DASHBOARD                      -->
+<!-- ====================================================== -->
+
+<h1 align="center">📊 GitHub Dashboard</h1>
+
+<p align="center">
+A snapshot of my development activity and contributions.
+</p>
+
+<br>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhileshreddy11&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshreddy11&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshreddy11&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshreddy11&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
