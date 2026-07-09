@@ -306,3 +306,85 @@ AI-powered system that automatically understands source code and generates clean
 </p>
 
 ---
+
+<!-- ====================================================== -->
+<!--                  TECHNOLOGY STACK                       -->
+<!-- ====================================================== -->
+
+<h2 align="center">⚡ Technology Stack</h2>
+
+<p align="center">
+Technologies and tools I use to build intelligent, scalable and production-ready applications.
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+
+</p>
+
+<p align="center">
+
+Machine Learning • Deep Learning • Computer Vision • CNN • Image Processing • Feature Engineering • Model Optimization
+
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
+
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,fastapi"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Agentic_AI-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent_AI-FF1744?style=for-the-badge"/>
+
+</p>
+
+---
