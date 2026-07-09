@@ -313,3 +313,70 @@ A snapshot of my development activity and contributions.
 </p>
 
 ---
+
+<!-- ====================================================== -->
+<!--              ACHIEVEMENTS & LEARNING                   -->
+<!-- ====================================================== -->
+
+<h1 align="center">🏆 Achievements & Learning Journey</h1>
+
+<p align="center">
+Continuously improving through hands-on AI projects, research, and practical software development.
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎓 Education</h3>
+
+• B.Tech – Computer Science (AI & ML)<br>
+• Mahatma Gandhi Institute of Technology (MGIT)<br>
+• Hyderabad, India
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚀 Current Focus</h3>
+
+• Building OmniMind<br>
+• Improving FindBuddy<br>
+• Learning Agentic AI<br>
+• Exploring RAG & MLOps
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💡 Areas of Interest</h3>
+
+• Artificial Intelligence<br>
+• Machine Learning<br>
+• Computer Vision<br>
+• Generative AI<br>
+• Full Stack AI Applications
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎯 Career Goal</h3>
+
+Become an AI Engineer building intelligent products that solve real-world problems and positively impact society.
+
+</td>
+
+</tr>
+
+</table>
+
+---
