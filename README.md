@@ -16,3 +16,10 @@
 > *Building AI that solves real-world problems through Machine Learning, Computer Vision, and Generative AI.*
 
 </div>
+<div align="center">
+
+🟢 **Open to AI Internships** • 🚀 **Building OmniMind** • 🔍 **Improving FindBuddy** • 🧠 **Learning Agentic AI**
+
+</div>
+
+---
