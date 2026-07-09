@@ -46,3 +46,98 @@ Machine Learning, Computer Vision, and Generative AI.
 
 ---
 
+<!-- ====================== AI OPERATING SYSTEM ====================== -->
+
+<h2 align="center">🧠 AI Operating System</h2>
+
+<p align="center">
+<i>"Building intelligent systems for real-world impact."</i>
+</p>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### 💼 SYSTEM STATUS
+
+```text
+🟢 Status        : ONLINE
+
+👨‍💻 Role         : AI Engineer
+
+🎓 Education    : B.Tech CSE (AI & ML)
+
+🏫 University   : MGIT
+
+📍 Location     : Hyderabad, India
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 CURRENT BUILD
+
+```text
+🤖 OmniMind
+
+Multi-Agent AI Platform
+
+✔ Memory
+
+✔ Vision
+
+✔ Voice
+
+✔ Automation
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 CURRENT RESEARCH
+
+```text
+• Agentic AI
+
+• RAG
+
+• Computer Vision
+
+• Multi-Agent Systems
+
+• MLOps
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 CURRENT MISSION
+
+```text
+✔ Build AI Products
+
+✔ Open Source
+
+✔ Research
+
+✔ MS Abroad
+
+✔ Solve Real Problems
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+
