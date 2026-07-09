@@ -433,3 +433,95 @@ Tracking my journey as an AI Engineer and Full Stack Developer.
 </p>
 
 ---
+
+<!-- ====================================================== -->
+<!--           CERTIFICATIONS & ACHIEVEMENTS                -->
+<!-- ====================================================== -->
+
+<h2 align="center">🏆 Certifications & Achievements</h2>
+
+<p align="center">
+Continuous learning and hands-on experience in Artificial Intelligence and Software Development.
+</p>
+
+<br>
+
+| 🎖️ Category | 📌 Achievement |
+|-------------|----------------|
+| 🎓 Degree | B.Tech – CSE (AI & ML), Mahatma Gandhi Institute of Technology |
+| 🤖 AI Development | Building **OmniMind** – Multi-Agent AI Platform |
+| 🔍 Computer Vision | Developing **FindBuddy** – Missing Person Detection System |
+| 📱 Android Development | Built **SOS Alert** Emergency Response System |
+| 💻 Full Stack | Flask, PostgreSQL, REST APIs |
+| 🌱 Learning | Agentic AI, RAG, LangChain, MLOps |
+| 🚀 Goal | AI Engineer • Open Source Contributor • MS in AI |
+
+---
+
+<!-- ====================================================== -->
+<!--                  CONTRIBUTIONS                         -->
+<!-- ====================================================== -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshreddy11&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<!-- ====================================================== -->
+<!--                  CURRENT MISSION                       -->
+<!-- ====================================================== -->
+
+<h2 align="center">🎯 Current Mission</h2>
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤖 Building OmniMind
+██████████░░░░░░ 60%
+
+🔍 Improving FindBuddy
+████████████░░░░ 75%
+
+🧠 Learning Agentic AI
+███████████░░░░░ 80%
+
+💻 Open Source Contributions
+███████░░░░░░░░░ 45%
+
+🎓 Preparing for AI Career
+██████████████░░ 90%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+<!-- ====================================================== -->
+<!--                    QUOTE                               -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+> **"The best way to predict the future is to build it."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting!
+
+<img src="https://komarev.com/ghpvc/?username=akhileshreddy11&style=for-the-badge&color=blueviolet"/>
+
+<br><br>
+
+💙 Designed and developed by **Akhilesh Reddy Thirumala Reddy**
+
+</div>
+
