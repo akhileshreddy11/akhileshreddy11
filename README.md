@@ -4,22 +4,28 @@
 </p>
 <div align="center">
 
-# 👋 Hi, I'm **Akhilesh Reddy Thirumala Reddy**
+<div align="center">
 
-### Artificial Intelligence Engineer
+<h1>👋 Hi, I'm Akhilesh Reddy Thirumala Reddy</h1>
+
+<h3>Artificial Intelligence Engineer</h3>
+
+<p>
+Building intelligent AI systems for real-world impact.
+</p>
+
+<p>
+
+🟢 Open to AI Internships •
+🚀 Building OmniMind •
+🔍 Improving FindBuddy •
+🧠 Learning Agentic AI
+
+</p>
 
 </div>
 
----
-<div align="center">
-
-> *Building AI that solves real-world problems through Machine Learning, Computer Vision, and Generative AI.*
-
-</div>
-<div align="center">
-
-🟢 **Open to AI Internships** • 🚀 **Building OmniMind** • 🔍 **Improving FindBuddy** • 🧠 **Learning Agentic AI**
-
+<hr>
 </div>
 
 ---
