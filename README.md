@@ -11,3 +11,8 @@
 </div>
 
 ---
+<div align="center">
+
+> *Building AI that solves real-world problems through Machine Learning, Computer Vision, and Generative AI.*
+
+</div>
