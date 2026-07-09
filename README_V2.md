@@ -163,7 +163,6 @@ Open Source
 </table>
 
 ---
-
 <!-- ====================================================== -->
 <!--                  FEATURED PROJECTS                      -->
 <!-- ====================================================== -->
@@ -171,139 +170,139 @@ Open Source
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-The projects that best represent my passion for Artificial Intelligence and real-world software engineering.
+A collection of AI-powered applications focused on solving real-world problems.
 </p>
 
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ## 🔍 FindBuddy
-
 ### AI Missing Person Identification System
 
-An AI-powered platform that helps identify missing persons using Computer Vision and Face Recognition.
+> **Status:** 🟢 Active Development
 
-### ✨ Features
+AI-powered platform that identifies missing persons using Computer Vision and Face Recognition.
 
+#### ✨ Key Features
+
+- 👤 AI Face Recognition
 - 🎥 Live Camera Detection
-- 👤 Face Recognition
 - 📍 GPS Location Tracking
-- 🔔 Instant Alerts
-- 🛡 Admin Dashboard
+- 🚨 Instant Emergency Alerts
+- 🛡️ Secure Admin Dashboard
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
-Python • Flask • OpenCV • TensorFlow • PostgreSQL
+<p>
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,flask,opencv,tensorflow,postgres"/>
 
-<a href="YOUR_FINDBUDDY_GITHUB_LINK">
+</p>
+
+<p>
+
+<a href="YOUR_FINDBUDDY_REPOSITORY">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-
-<td width="50%" align="center">
-
-<img src="assets/findbuddy.png" width="95%"/>
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
-
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-<img src="assets/omnimind.png" width="95%"/>
-
-</td>
-
-<td width="50%" valign="top">
 
 ## 🤖 OmniMind
+### Next Generation Multi-Agent AI Assistant
 
-### Multi-Agent AI Assistant
+> **Status:** 🟢 Currently Building
 
-A next-generation AI ecosystem combining memory, reasoning, vision, voice and automation.
+An intelligent AI assistant powered by Multi-Agent Architecture, Memory, Vision, Voice and RAG.
 
-### ✨ Features
+#### ✨ Key Features
 
 - 🧠 Long-Term Memory
-- 🎙 Voice Assistant
-- 👁 Vision AI
-- 📚 RAG
+- 👁️ Vision AI
+- 🎙️ Voice Assistant
+- 📚 Retrieval Augmented Generation (RAG)
 - 🤖 Multi-Agent Collaboration
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
-Python • FastAPI • LangChain • OpenAI • Vector Database
+<p>
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker"/>
 
-<a href="YOUR_OMNIMIND_GITHUB_LINK">
+</p>
+
+<p>
+
+<a href="YOUR_OMNIMIND_REPOSITORY">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
 ## 🚨 SOS Alert
+### Smart Emergency Response System
 
-### Emergency Response Application
+> **Status:** 🟢 Completed Prototype
 
-An Android application that sends emergency alerts and live location to trusted contacts.
+Android application that instantly sends emergency alerts and live GPS location to trusted contacts.
 
-### ✨ Features
+#### ✨ Key Features
 
 - 🚨 One-Tap SOS
 - 📍 Live GPS
-- 📱 Android App
+- 📱 Android Application
 - 🌐 Flask Backend
+- 📞 Emergency Notifications
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
-Android • Java • Flask • Google Maps API
+<p>
 
-<br>
+<img src="https://skillicons.dev/icons?i=java,androidstudio,flask"/>
 
-<a href="YOUR_SOS_GITHUB_LINK">
+</p>
+
+<p>
+
+<a href="YOUR_SOS_REPOSITORY">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-
-<td width="50%" align="center">
-
-<img src="assets/sos.png" width="95%"/>
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
+## 📄 AI Code Documentation Agent
+### Intelligent Documentation Generator
 
+> **Status:** 🟡 In Progress
+
+AI-powered system that automatically understands source code and generates clean technical documentation.
+
+#### ✨ Key Features
+
+- 🤖 AI Documentation
+- 📑 Function Summaries
+- 🧠 NLP Powered
+- ⚡ Automatic Documentation
+- 📚 Developer Friendly
+
+#### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,nodejs"/>
+
+</p>
+
+<p>
+
+<a href="YOUR_DOCUMENTATION_REPOSITORY">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
