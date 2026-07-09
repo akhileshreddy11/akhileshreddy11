@@ -79,7 +79,15 @@ Building intelligent AI products that solve real-world problems through
 <!--                 FEATURED PROJECTS                      -->
 <!-- ====================================================== -->
 
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                      -->
+<!-- ====================================================== -->
+
 <h1 align="center">🚀 Featured AI Projects</h1>
+
+<p align="center">
+A collection of AI-powered applications focused on solving real-world problems.
+</p>
 
 <br>
 
@@ -87,17 +95,17 @@ Building intelligent AI products that solve real-world problems through
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h2 align="center">🔍 FindBuddy</h2>
 
 <p align="center">
-<img src="assets/projects/findbuddy.png" width="100%">
+<img src="assets/projects/findbuddy.png" width="100%" alt="FindBuddy">
 </p>
 
 <p align="center">
-<b>AI-powered Missing Person Identification System</b><br>
-Real-time face recognition using Computer Vision and Deep Learning.
+<b>AI-Powered Missing Person Identification System</b><br>
+Uses computer vision and face recognition techniques to assist in identifying missing individuals.
 </p>
 
 <p align="center">
@@ -114,23 +122,27 @@ Python • Flask • OpenCV • TensorFlow • PostgreSQL
 
 </td>
 
+<td width="50%" valign="top">
+
 <h2 align="center">🧠 OmniMind</h2>
 
 <p align="center">
+<img src="assets/projects/omnimind.png" width="100%" alt="OmniMind">
+</p>
 
-<img src="assets/projects/omnimind.png" width="100%"/>
+<p align="center">
+<b>Next-Generation Multi-Agent AI Platform</b><br>
+An AI ecosystem currently under development, designed around memory, reasoning, automation, and intelligent agents.
+</p>
 
+<p align="center">
+Planned Tech Stack:<br>
+Python • FastAPI • LangChain • Vector Database
 </p>
 
 <p align="center">
 
-Next-generation Multi-Agent AI Platform with memory, reasoning and automation.
-
-</p>
-
-<p align="center">
-
-Python • FastAPI • LangChain • OpenAI
+<img src="https://img.shields.io/badge/Coming_Soon-6C63FF?style=for-the-badge">
 
 </p>
 
@@ -140,17 +152,17 @@ Python • FastAPI • LangChain • OpenAI
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h2 align="center">🌱 Crop Disease AI</h2>
 
 <p align="center">
-<img src="assets/projects/crop-disease-ai.png" width="100%">
+<img src="assets/projects/crop-disease-ai.png" width="100%" alt="Crop Disease AI">
 </p>
 
 <p align="center">
 <b>AI-Powered Crop Disease Detection System</b><br>
-Deep Learning application that detects plant diseases from leaf images and provides predictions to support smarter farming.
+Deep learning application that identifies plant diseases from leaf images and predicts the disease class.
 </p>
 
 <p align="center">
@@ -166,23 +178,27 @@ Python • TensorFlow • Flask • OpenCV • CNN
 </p>
 
 </td>
-<h2 align="center">📄 AI Code Documentation</h2>
+
+<td width="50%" valign="top">
+
+<h2 align="center">📄 AI Code Documentation Generator</h2>
 
 <p align="center">
-
-<img src="assets/projects/codedoc-ai.png" width="100%"/>
-
+<img src="assets/projects/codedoc-ai.png" width="100%" alt="AI Code Documentation Generator">
 </p>
 
 <p align="center">
-
-AI assistant that automatically generates clean developer documentation.
-
+<b>AI-Powered Code Documentation Assistant</b><br>
+Analyzes source code and generates structured technical documentation for developers.
 </p>
 
 <p align="center">
-
 Python • NLP • OpenAI • Flask
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Private_Project-orange?style=for-the-badge">
 
 </p>
 
