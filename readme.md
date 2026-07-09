@@ -209,3 +209,73 @@ Python • NLP • OpenAI • Flask
 </table>
 
 ---
+
+<!-- ====================================================== -->
+<!--                  TECHNOLOGY STACK                       -->
+<!-- ====================================================== -->
+
+<h1 align="center">⚡ Technology Stack</h1>
+
+<p align="center">
+Technologies I use to build intelligent, scalable and production-ready AI applications.
+</p>
+
+<br>
+
+<h3 align="center">🤖 Artificial Intelligence & Machine Learning</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+</p>
+
+<p align="center">
+Machine Learning • Deep Learning • Computer Vision • CNN • Image Processing
+</p>
+
+<br>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
+</p>
+
+<br>
+
+<h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,fastapi"/>
+</p>
+
+<br>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+</p>
+
+<br>
+
+<h3 align="center">⚙️ Tools & Platforms</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
+</p>
+
+<br>
+
+<h3 align="center">📚 Currently Learning</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Agentic_AI-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent_AI-FF1744?style=for-the-badge"/>
+
+</p>
+
+---
