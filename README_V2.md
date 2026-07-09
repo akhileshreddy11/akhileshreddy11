@@ -41,4 +41,127 @@ Building intelligent AI systems that solve real-world problems through Machine L
 </div>
 
 ---
+<!-- ====================================================== -->
+<!--                  AI CONTROL CENTER                      -->
+<!-- ====================================================== -->
+
+<h2 align="center">🧠 AI Control Center</h2>
+
+<p align="center">
+<i>A quick overview of my current work, skills and goals.</i>
+</p>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🎓 Education
+
+**B.Tech CSE (AI & ML)**
+
+Mahatma Gandhi Institute of Technology
+
+</td>
+
+<td align="center" width="33%">
+
+### 💼 Current Role
+
+**AI & Machine Learning Engineer**
+
+Full Stack AI Developer
+
+</td>
+
+<td align="center" width="33%">
+
+### 📍 Location
+
+**Hyderabad**
+
+India
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🚀 Building
+
+**OmniMind**
+
+Multi-Agent AI Platform
+
+</td>
+
+<td align="center">
+
+### 🔍 Active Project
+
+**FindBuddy**
+
+AI Missing Person Detection
+
+</td>
+
+<td align="center">
+
+### 🧠 Learning
+
+Agentic AI
+
+RAG
+
+MLOps
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🎯 Mission
+
+Build AI that creates
+
+real-world impact.
+
+</td>
+
+<td align="center">
+
+### 🌱 Currently Exploring
+
+Computer Vision
+
+Generative AI
+
+LLMs
+
+</td>
+
+<td align="center">
+
+### 💡 Interests
+
+Artificial Intelligence
+
+Research
+
+Open Source
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
 
