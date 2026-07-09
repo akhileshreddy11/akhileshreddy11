@@ -74,3 +74,121 @@ Building intelligent AI products that solve real-world problems through
 </div>
 
 ---
+
+<!-- ====================================================== -->
+<!--                 FEATURED PROJECTS                      -->
+<!-- ====================================================== -->
+
+<h1 align="center">🚀 Featured AI Projects</h1>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h2 align="center">🔍 FindBuddy</h2>
+
+<p align="center">
+
+<img src="assets/projects/findbuddy.png" width="100%"/>
+
+</p>
+
+<p align="center">
+
+AI-powered Missing Person Identification System using Computer Vision and Face Recognition.
+
+</p>
+
+<p align="center">
+
+Python • Flask • OpenCV • TensorFlow • PostgreSQL
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h2 align="center">🧠 OmniMind</h2>
+
+<p align="center">
+
+<img src="assets/projects/omnimind.png" width="100%"/>
+
+</p>
+
+<p align="center">
+
+Next-generation Multi-Agent AI Platform with memory, reasoning and automation.
+
+</p>
+
+<p align="center">
+
+Python • FastAPI • LangChain • OpenAI
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h2 align="center">🌱 Crop Disease AI</h2>
+
+<p align="center">
+
+<img src="assets/projects/crop-disease-ai.png" width="100%"/>
+
+</p>
+
+<p align="center">
+
+Deep Learning system for crop disease detection and remedy prediction.
+
+</p>
+
+<p align="center">
+
+Python • TensorFlow • OpenCV • Flask
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h2 align="center">📄 AI Code Documentation</h2>
+
+<p align="center">
+
+<img src="assets/projects/codedoc-ai.png" width="100%"/>
+
+</p>
+
+<p align="center">
+
+AI assistant that automatically generates clean developer documentation.
+
+</p>
+
+<p align="center">
+
+Python • NLP • OpenAI • Flask
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
