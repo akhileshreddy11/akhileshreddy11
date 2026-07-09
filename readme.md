@@ -404,3 +404,19 @@ Become an AI Engineer building intelligent products that solve real-world proble
 </p>
 
 ---
+
+<div align="center">
+
+## ⭐ Thanks for visiting!
+
+<img src="https://komarev.com/ghpvc/?username=akhileshreddy11&style=for-the-badge&color=blueviolet"/>
+
+<br><br>
+
+*"Building AI solutions that create real-world impact."*
+
+<br><br>
+
+Made with ❤️ by **Akhilesh Reddy Thirumala Reddy**
+
+</div>
