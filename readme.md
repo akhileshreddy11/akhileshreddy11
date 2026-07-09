@@ -92,26 +92,27 @@ Building intelligent AI products that solve real-world problems through
 <h2 align="center">🔍 FindBuddy</h2>
 
 <p align="center">
-
-<img src="assets/projects/findbuddy.png" width="100%"/>
-
+<img src="assets/projects/findbuddy.png" width="100%">
 </p>
 
 <p align="center">
-
-AI-powered Missing Person Identification System using Computer Vision and Face Recognition.
-
+<b>AI-powered Missing Person Identification System</b><br>
+Real-time face recognition using Computer Vision and Deep Learning.
 </p>
 
 <p align="center">
-
 Python • Flask • OpenCV • TensorFlow • PostgreSQL
+</p>
+
+<p align="center">
+
+<a href="https://github.com/akhileshreddy11/missing_person-ai">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </p>
 
 </td>
-
-<td width="50%">
 
 <h2 align="center">🧠 OmniMind</h2>
 
