@@ -86,7 +86,7 @@ Building intelligent AI products that solve real-world problems through
 <h1 align="center">🚀 Featured AI Projects</h1>
 
 <p align="center">
-A collection of AI-powered applications focused on solving real-world problems.
+A collection of AI-powered applications focused on solving real-world problems through Artificial Intelligence, Computer Vision, and Natural Language Processing.
 </p>
 
 <br>
@@ -113,11 +113,9 @@ Python • Flask • OpenCV • TensorFlow • PostgreSQL
 </p>
 
 <p align="center">
-
 <a href="https://github.com/akhileshreddy11/missing_person-ai">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 </p>
 
 </td>
@@ -132,7 +130,7 @@ Python • Flask • OpenCV • TensorFlow • PostgreSQL
 
 <p align="center">
 <b>Next-Generation Multi-Agent AI Platform</b><br>
-An AI ecosystem currently under development, designed around memory, reasoning, automation, and intelligent agents.
+A flagship AI platform currently under development, designed around intelligent agents, memory, reasoning, automation, and real-world AI workflows.
 </p>
 
 <p align="center">
@@ -141,9 +139,7 @@ Python • FastAPI • LangChain • Vector Database
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Coming_Soon-6C63FF?style=for-the-badge">
-
 </p>
 
 </td>
@@ -162,7 +158,7 @@ Python • FastAPI • LangChain • Vector Database
 
 <p align="center">
 <b>AI-Powered Crop Disease Detection System</b><br>
-Deep learning application that identifies plant diseases from leaf images and predicts the disease class.
+Deep learning application that identifies plant diseases from leaf images and predicts the disease class to support precision agriculture.
 </p>
 
 <p align="center">
@@ -170,11 +166,9 @@ Python • TensorFlow • Flask • OpenCV • CNN
 </p>
 
 <p align="center">
-
 <a href="https://github.com/akhileshreddy11/Crop_disease_detection">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 </p>
 
 </td>
@@ -188,18 +182,18 @@ Python • TensorFlow • Flask • OpenCV • CNN
 </p>
 
 <p align="center">
-<b>AI-Powered Code Documentation Assistant</b><br>
-Analyzes source code and generates structured technical documentation for developers.
+<b>AI-Powered Code Documentation Generator</b><br>
+Automatically analyzes source code and generates structured, developer-friendly documentation with grammar refinement and export support.
 </p>
 
 <p align="center">
-Python • NLP • OpenAI • Flask
+Python • Flask • NLP • HTML • CSS • JavaScript
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Private_Project-orange?style=for-the-badge">
-
+<a href="https://github.com/akhileshreddy11/Ai-document-generator">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </p>
 
 </td>
@@ -209,7 +203,6 @@ Python • NLP • OpenAI • Flask
 </table>
 
 ---
-
 <!-- ====================================================== -->
 <!--                  TECHNOLOGY STACK                       -->
 <!-- ====================================================== -->
