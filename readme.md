@@ -1,7 +1,6 @@
 <!-- ====================================================== -->
 <!--                  PREMIUM HERO SECTION                   -->
 <!-- ====================================================== -->
-
 <p align="center">
 <img src="assets/banner.png" width="100%" alt="Akhilesh Reddy Banner"/>
 </p>
@@ -20,14 +19,12 @@ Artificial Intelligence & Machine Learning Engineer
 Building intelligent AI products that solve real-world problems through
 <b>Machine Learning</b>,
 <b>Computer Vision</b>,
-<b>Generative AI</b> and
+<b>Generative AI</b>, and
 <b>Agentic AI</b>.
 </p>
 
 <p align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=1200&color=00E7FF&center=true&vCenter=true&width=750&lines=Building+OmniMind...;Developing+FindBuddy...;Learning+Agentic+AI...;Open+to+AI+Internships"/>
-
 </p>
 
 <br>
@@ -50,8 +47,8 @@ Building intelligent AI products that solve real-world problems through
 <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Resume-PDF-success?style=for-the-badge"/>
+<a href="https://raw.githubusercontent.com/akhileshreddy11/akhileshreddy11/main/resume/Akhilesh_Reddy-Resume.pdf">
+<img src="https://img.shields.io/badge/📄%20Download%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </p>
@@ -66,8 +63,8 @@ Building intelligent AI products that solve real-world problems through
 |:---|:---|
 | 🟢 **Status** | Open to AI Internships |
 | 🤖 **Current Build** | OmniMind |
-| 🔍 **Active Project** | FindBuddy |
-| 🧠 **Learning** | Agentic AI • RAG • MLOps |
+| 🔍 **Flagship Project** | FindBuddy |
+| 🧠 **Currently Learning** | Agentic AI • RAG • MLOps |
 | 🎓 **Education** | B.Tech CSE (AI & ML), MGIT |
 | 📍 **Location** | Hyderabad, India |
 
