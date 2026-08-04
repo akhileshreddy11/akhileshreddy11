@@ -293,63 +293,8 @@ Credential
 
 
 
-Artificial Intelligence Fundamentals
+<img width="778" height="295" alt="image" src="https://github.com/user-attachments/assets/23b53b7c-6bd4-4e58-9624-c4dbcdb0f0ee" />
 
-<a href="https://github.com/akhileshreddy11/Certifications/blob/main/IBM%20AI/IBM%20AI.pdf">📄 View</a>
-
-
-
-AI Fundamentals with IBM SkillsBuild
-
-<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/ai%20fundamentals.pdf">📄 View</a>
-
-
-
-Apply AI: Update Your Resume
-
-<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/Ai_Application.pdf">📄 View</a>
-
-
-
-Apply AI: Analyze Customer Reviews
-
-<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/Customer_reviews_AI.pdf">📄 View</a>
-
-
-
-Introduction to Cybersecurity
-
-<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/CISCO%20CYBER%20SECURITY.pdf">📄 View</a>
-
-
-
-Yuva AI for All
-
-<a href="https://github.com/akhileshreddy11/Certifications/blob/main/IndiaAI/Akhilesh_reddy_402293.pdf">📄 View</a>
-
-
-
-Virtual Internship Program
-
-<a href="https://github.com/akhileshreddy11/Certifications/blob/main/ServiceNow/ServiceNow_certificate.pdf">📄 View</a>
-
-
-
-Artificial Intelligence Internship
-
-<a href="https://github.com/akhileshreddy11/Certifications/blob/main/iStudio/istudio_internship.pdf">📄 View</a>
-
-
-
-Artificial Intelligence Training
-
-<a href="https://github.com/akhileshreddy11/Certifications/blob/main/iStudio/istudio_Training.pdf">📄 View</a>
-
-
-
-Technoverse Hackathon 2026
-
-<a href="https://github.com/akhileshreddy11/Certifications/blob/main/cognizant/cognizant_participation.pdf">📄 View</a>
 
 </div>
 
