@@ -269,6 +269,102 @@ Machine Learning • Deep Learning • Computer Vision • CNN • Image Process
 </p>
 
 ---
+<!-- ====================================================== -->
+
+<!--                PROFESSIONAL CERTIFICATIONS             -->
+
+<!-- ====================================================== -->
+
+<h1 align="center">📜 Professional Certifications</h1>
+
+<p align="center">
+Industry-recognized certifications demonstrating continuous learning in Artificial Intelligence, Machine Learning, Cybersecurity, Enterprise Technologies, and Professional Development.
+</p>
+
+<br>
+
+<div align="center">
+
+Provider
+
+Certification
+
+Credential
+
+
+
+Artificial Intelligence Fundamentals
+
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/IBM%20AI/IBM%20AI.pdf">📄 View</a>
+
+
+
+AI Fundamentals with IBM SkillsBuild
+
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/ai%20fundamentals.pdf">📄 View</a>
+
+
+
+Apply AI: Update Your Resume
+
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/Ai_Application.pdf">📄 View</a>
+
+
+
+Apply AI: Analyze Customer Reviews
+
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/Customer_reviews_AI.pdf">📄 View</a>
+
+
+
+Introduction to Cybersecurity
+
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/CISCO%20CYBER%20SECURITY.pdf">📄 View</a>
+
+
+
+Yuva AI for All
+
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/IndiaAI/Akhilesh_reddy_402293.pdf">📄 View</a>
+
+
+
+Virtual Internship Program
+
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/ServiceNow/ServiceNow_certificate.pdf">📄 View</a>
+
+
+
+Artificial Intelligence Internship
+
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/iStudio/istudio_internship.pdf">📄 View</a>
+
+
+
+Artificial Intelligence Training
+
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/iStudio/istudio_Training.pdf">📄 View</a>
+
+
+
+Technoverse Hackathon 2026
+
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/cognizant/cognizant_participation.pdf">📄 View</a>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Total_Credentials-10-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-8-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-1-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathon-1-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/akhileshreddy11/Certifications">
+<img src="https://img.shields.io/badge/View_All_Certifications-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 <!-- ====================================================== -->
 <!--                  GITHUB DASHBOARD                      -->
