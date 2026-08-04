@@ -269,6 +269,90 @@ Machine Learning • Deep Learning • Computer Vision • CNN • Image Process
 </p>
 
 ---
+<!-- ====================================================== -->
+<!--             PROFESSIONAL CERTIFICATIONS                -->
+<!-- ====================================================== -->
+
+<h1 align="center">🏆 Professional Certifications</h1>
+
+<p align="center">
+Continuously strengthening my expertise through globally recognized certifications,
+hands-on training programs, internships, and hackathons.
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 Artificial Intelligence</h3>
+
+✅ IBM – Artificial Intelligence Fundamentals<br>
+✅ Cisco – AI Fundamentals with IBM SkillsBuild<br>
+✅ Cisco – Apply AI: Update Your Resume<br>
+✅ Cisco – Apply AI: Analyze Customer Reviews<br>
+✅ INDIAai – Yuva AI for All
+
+<br><br>
+
+<p align="center">
+
+<a href="https://github.com/akhileshreddy11/Certifications/tree/main/IBM%20AI">
+<img src="https://img.shields.io/badge/IBM-View_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akhileshreddy11/Certifications/tree/main/Cisco">
+<img src="https://img.shields.io/badge/Cisco-Certificates-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💼 Professional Experience</h3>
+
+✅ ServiceNow Virtual Internship Program<br>
+✅ iStudio Artificial Intelligence Internship<br>
+✅ iStudio Artificial Intelligence Training<br>
+✅ Cognizant Technoverse Hackathon 2026
+
+<br><br>
+
+<p align="center">
+
+<a href="https://github.com/akhileshreddy11/Certifications/tree/main/ServiceNow">
+<img src="https://img.shields.io/badge/ServiceNow-Certificate-00A65A?style=for-the-badge&logo=servicenow&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akhileshreddy11/Certifications">
+<img src="https://img.shields.io/badge/View_All-Certifications-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🎖️%2010%20Certificates-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI%20Focused-8-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼%20Internships-2-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆%20Hackathons-1-red?style=for-the-badge"/>
+
+</p>
+
+---
 
 <!-- ====================================================== -->
 <!--                  GITHUB DASHBOARD                      -->
