@@ -269,47 +269,6 @@ Machine Learning • Deep Learning • Computer Vision • CNN • Image Process
 </p>
 
 ---
-<!-- ====================================================== -->
-
-<!--                PROFESSIONAL CERTIFICATIONS             -->
-
-<!-- ====================================================== -->
-
-<h1 align="center">📜 Professional Certifications</h1>
-
-<p align="center">
-Industry-recognized certifications demonstrating continuous learning in Artificial Intelligence, Machine Learning, Cybersecurity, Enterprise Technologies, and Professional Development.
-</p>
-
-<br>
-
-<div align="center">
-
-Provider
-
-Certification
-
-Credential
-
-
-
-<img width="778" height="295" alt="image" src="https://github.com/user-attachments/assets/23b53b7c-6bd4-4e58-9624-c4dbcdb0f0ee" />
-
-
-</div>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Total_Credentials-10-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-8-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cybersecurity-1-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hackathon-1-orange?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/akhileshreddy11/Certifications">
-<img src="https://img.shields.io/badge/View_All_Certifications-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
 <!-- ====================================================== -->
 <!--                  GITHUB DASHBOARD                      -->
