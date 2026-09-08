@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050817"/><stop offset="0.55" stop-color="#0b1230"/><stop offset="1" stop-color="#16052d"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6d4aff"/><stop offset="1" stop-color="#16c8ff"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="675" fill="url(#bg)"/>
+<circle cx="1020" cy="100" r="190" fill="#5d32ff" opacity=".12" filter="url(#glow)"/>
+<circle cx="800" cy="540" r="220" fill="#00bfff" opacity=".08" filter="url(#glow)"/>
+<path d="M55 120 H1145" stroke="#27335f"/>
+<text x="60" y="78" fill="white" font-family="Arial,sans-serif" font-size="44" font-weight="700">Creator<tspan fill="#7c5cff">OS</tspan></text>
+<text x="62" y="104" fill="#9ca9d6" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">PLAN • CREATE • AUTOMATE • GROW</text>
+<text x="60" y="178" fill="white" font-family="Arial,sans-serif" font-size="43" font-weight="700">Your AI-Powered</text>
+<text x="60" y="225" fill="url(#accent)" font-family="Arial,sans-serif" font-size="43" font-weight="700">Creator Command Center</text>
+<text x="60" y="264" fill="#dce5ff" font-family="Arial,sans-serif" font-size="20">Turn Ideas into Impact with AI Employees</text>
+<rect x="60" y="285" width="72" height="4" rx="2" fill="url(#accent)"/>
+<text x="60" y="325" fill="#b7c3e6" font-family="Arial,sans-serif" font-size="15">Coordinate missions, content, products and intelligent automation</text>
+<text x="60" y="348" fill="#b7c3e6" font-family="Arial,sans-serif" font-size="15">with specialized AI employees working together.</text>
+<rect x="60" y="382" width="190" height="46" rx="23" fill="url(#accent)"/>
+<text x="155" y="411" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="16" font-weight="700">VIEW PROJECT →</text>
+<rect x="265" y="382" width="190" height="46" rx="23" fill="#0c1230" stroke="#6356ff"/>
+<text x="360" y="411" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="16" font-weight="700">GITHUB →</text>
+<!-- dashboard -->
+<rect x="535" y="145" width="575" height="305" rx="18" fill="#080d20" stroke="#5361aa" stroke-width="2"/>
+<rect x="555" y="165" width="535" height="38" rx="8" fill="#111936"/>
+<text x="575" y="190" fill="#dce5ff" font-family="Arial,sans-serif" font-size="16" font-weight="700">CreatorOS Dashboard</text>
+<rect x="575" y="225" width="115" height="68" rx="10" fill="#121d43"/><rect x="705" y="225" width="115" height="68" rx="10" fill="#121d43"/><rect x="835" y="225" width="115" height="68" rx="10" fill="#121d43"/><rect x="965" y="225" width="105" height="68" rx="10" fill="#121d43"/>
+<text x="590" y="250" fill="#8d9dcc" font-family="Arial,sans-serif" font-size="11">MISSIONS</text><text x="590" y="278" fill="white" font-family="Arial,sans-serif" font-size="24" font-weight="700">12</text>
+<text x="720" y="250" fill="#8d9dcc" font-family="Arial,sans-serif" font-size="11">CONTENT</text><text x="720" y="278" fill="white" font-family="Arial,sans-serif" font-size="24" font-weight="700">28</text>
+<text x="850" y="250" fill="#8d9dcc" font-family="Arial,sans-serif" font-size="11">PRODUCTS</text><text x="850" y="278" fill="white" font-family="Arial,sans-serif" font-size="24" font-weight="700">4</text>
+<text x="980" y="250" fill="#8d9dcc" font-family="Arial,sans-serif" font-size="11">GROWTH</text><text x="980" y="278" fill="#53e7a4" font-family="Arial,sans-serif" font-size="24" font-weight="700">+67%</text>
+<text x="575" y="322" fill="white" font-family="Arial,sans-serif" font-size="15" font-weight="700">Mission Progress</text>
+<rect x="575" y="338" width="270" height="12" rx="6" fill="#202b50"/><rect x="575" y="338" width="190" height="12" rx="6" fill="#755cff"/>
+<rect x="575" y="366" width="240" height="12" rx="6" fill="#202b50"/><rect x="575" y="366" width="220" height="12" rx="6" fill="#36d89b"/>
+<rect x="575" y="394" width="220" height="12" rx="6" fill="#202b50"/><rect x="575" y="394" width="95" height="12" rx="6" fill="#21c8ff"/>
+<text x="865" y="322" fill="white" font-family="Arial,sans-serif" font-size="15" font-weight="700">AI Employees</text>
+<rect x="865" y="338" width="205" height="28" rx="8" fill="#171f43"/><text x="878" y="357" fill="#cfd8ff" font-family="Arial,sans-serif" font-size="12">● Content Employee</text>
+<rect x="865" y="374" width="205" height="28" rx="8" fill="#171f43"/><text x="878" y="393" fill="#cfd8ff" font-family="Arial,sans-serif" font-size="12">● Product Employee</text>
+<rect x="865" y="410" width="205" height="28" rx="8" fill="#171f43"/><text x="878" y="429" fill="#cfd8ff" font-family="Arial,sans-serif" font-size="12">● Research Employee</text>
+<!-- feature strip -->
+<rect x="45" y="490" width="1110" height="125" rx="18" fill="#080d20" stroke="#27335f"/>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<text x="145" y="530" fill="#9c7cff" font-size="30">✦</text><text x="145" y="557" fill="white" font-size="15" font-weight="700">AI Employees</text><text x="145" y="578" fill="#8f9bc4" font-size="11">Your 24/7 team</text>
+<text x="350" y="530" fill="#34c9ff" font-size="30">✓</text><text x="350" y="557" fill="white" font-size="15" font-weight="700">Mission System</text><text x="350" y="578" fill="#8f9bc4" font-size="11">Plan • Execute • Track</text>
+<text x="555" y="530" fill="#9c7cff" font-size="30">◆</text><text x="555" y="557" fill="white" font-size="15" font-weight="700">Content Creation</text><text x="555" y="578" fill="#8f9bc4" font-size="11">Videos • Blogs • Socials</text>
+<text x="760" y="530" fill="#34c9ff" font-size="30">◇</text><text x="760" y="557" fill="white" font-size="15" font-weight="700">Product Builder</text><text x="760" y="578" fill="#8f9bc4" font-size="11">From idea to launch</text>
+<text x="965" y="530" fill="#9c7cff" font-size="30">↗</text><text x="965" y="557" fill="white" font-size="15" font-weight="700">Growth Analytics</text><text x="965" y="578" fill="#8f9bc4" font-size="11">Measure what matters</text>
+</g>
+<text x="60" y="650" fill="#7080b5" font-family="Arial,sans-serif" font-size="11" letter-spacing="4">IDEAS → EXECUTION → RESULTS</text>
+<text x="1140" y="650" text-anchor="end" fill="#8f9bc4" font-family="Arial,sans-serif" font-size="12">AI • AUTOMATION • CREATION</text>
+</svg>
