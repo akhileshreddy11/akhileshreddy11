@@ -9,7 +9,6 @@
 <br>
 
 <h1 align="center">👋 Hi, I'm Akhilesh Reddy Thirumala Reddy</h1>
-
 <h3 align="center">Artificial Intelligence & Machine Learning Engineer</h3>
 
 <p align="center">
@@ -54,105 +53,54 @@
 
 <p align="center">Selected projects demonstrating practical AI engineering across intelligent agents, computer vision, deep learning, and developer tooling.</p>
 
-<br>
-
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <h2 align="center">⚡ CreatorOS</h2>
-
 <p align="center"><b>AI-Powered Creator Operating System</b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI%20Agents-Active-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/In%20Development-00AEEF?style=for-the-badge"/>
-</p>
-
-<p align="center">
-An AI operating system concept for coordinating specialized AI employees, missions, content workflows, product workflows, and intelligent automation.
-</p>
-
+<p align="center"><img src="https://img.shields.io/badge/AI%20Agents-Active-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/In%20Development-00AEEF?style=for-the-badge"/></p>
+<p align="center">An AI operating system concept for coordinating specialized AI employees, missions, content workflows, product workflows, and intelligent automation.</p>
 <p align="center"><b>Next.js • TypeScript • AI Agents • Automation</b></p>
-
 <p align="center"><a href="https://github.com/akhileshreddy11/CreatorOS"><img src="https://img.shields.io/badge/Explore%20CreatorOS-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-
 </td>
-
 <td width="50%" valign="top">
-
 <h2 align="center">🧠 OmniMind</h2>
-
 <p align="center"><b>Multi-Agent AI Platform</b></p>
-
 <p align="center"><img src="assets/projects/omnimind.png" width="100%" alt="OmniMind"/></p>
-
-<p align="center">
-A flagship platform being developed around intelligent agents, memory, reasoning, automation, and real-world AI workflows.
-</p>
-
+<p align="center">A flagship platform being developed around intelligent agents, memory, reasoning, automation, and real-world AI workflows.</p>
 <p align="center"><b>Python • FastAPI • LangChain • Vector Database</b></p>
-
 <p align="center"><img src="https://img.shields.io/badge/Coming%20Soon-6C63FF?style=for-the-badge"/></p>
-
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
 <h2 align="center">🔍 FindBuddy</h2>
-
 <p align="center"><img src="assets/projects/findbuddy.png" width="100%" alt="FindBuddy"/></p>
-
-<p align="center"><b>AI-Powered Missing Person Identification System</b><br>Uses computer vision and face-recognition techniques to assist with identifying missing individuals.</p>
-
+<p align="center"><b>AI-Powered Missing Person Identification System</b><br/>Uses computer vision and face-recognition techniques to assist with identifying missing individuals.</p>
 <p align="center"><b>Python • Flask • OpenCV • TensorFlow • PostgreSQL</b></p>
-
 <p align="center"><a href="https://github.com/akhileshreddy11/missing_person-ai"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-
 </td>
-
 <td width="50%" valign="top">
-
 <h2 align="center">🌱 Crop Disease AI</h2>
-
 <p align="center"><img src="assets/projects/crop-disease-ai.png" width="100%" alt="Crop Disease AI"/></p>
-
-<p align="center"><b>AI-Powered Crop Disease Detection System</b><br>Deep-learning application that identifies plant diseases from leaf images and predicts the disease class.</p>
-
+<p align="center"><b>AI-Powered Crop Disease Detection System</b><br/>Deep-learning application that identifies plant diseases from leaf images and predicts the disease class.</p>
 <p align="center"><b>Python • TensorFlow • Flask • OpenCV • CNN</b></p>
-
 <p align="center"><a href="https://github.com/akhileshreddy11/Crop_disease_detection"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
 <h2 align="center">📄 AI Code Documentation Generator</h2>
-
 <p align="center"><img src="assets/projects/codedoc-ai.png" width="100%" alt="AI Code Documentation Generator"/></p>
-
-<p align="center"><b>AI-Powered Developer Documentation Assistant</b><br>Analyzes source code and generates structured developer-friendly documentation with grammar refinement and export support.</p>
-
+<p align="center"><b>AI-Powered Developer Documentation Assistant</b><br/>Analyzes source code and generates structured developer-friendly documentation with grammar refinement and export support.</p>
 <p align="center"><b>Python • Flask • NLP • HTML • CSS • JavaScript</b></p>
-
 <p align="center"><a href="https://github.com/akhileshreddy11/Ai-document-generator"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-
 </td>
-
 <td width="50%" valign="top">
-
 <h2 align="center">🎯 AI Engineering Philosophy</h2>
-
 <p align="center">I focus on turning AI concepts into usable products rather than isolated experiments.</p>
-
 <p align="center"><b>Agents • Vision • Automation • Developer Tools • Real-World AI</b></p>
-
 <p align="center"><img src="https://img.shields.io/badge/Build-Learn-00E7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ship-Improve-6C63FF?style=for-the-badge"/></p>
-
 </td>
 </tr>
 </table>
@@ -257,7 +205,7 @@ A flagship platform being developed around intelligent agents, memory, reasoning
 
 ## 📊 GitHub Dashboard
 
-<p align="center">Live contribution statistics, streak, language distribution, and activity graph.</p>
+<p align="center">Live contribution statistics, streak, language distribution, activity graph, and profile achievements.</p>
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhileshreddy11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
@@ -270,6 +218,16 @@ A flagship platform being developed around intelligent agents, memory, reasoning
 
 <p align="center">
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshreddy11&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+</p>
+
+<p align="center">
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=akhileshreddy11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub profile trophies"/>
+</p>
+
+### 🐍 Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/akhileshreddy11/akhileshreddy11/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 </p>
 
 ---
