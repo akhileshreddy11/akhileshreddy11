@@ -1,0 +1,34 @@
+name: Update GitHub Profile Dashboard
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate dashboard
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/update_github_dashboard.py
+
+      - name: Commit dashboard if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-dashboard.svg
+          if git diff --cached --quiet; then
+            echo "Dashboard is already up to date."
+          else
+            git commit -m "chore: update GitHub profile dashboard"
+            git push
+          fi
