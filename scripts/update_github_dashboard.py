@@ -38,6 +38,7 @@ def round_rect(x, y, w, h, fill="#0d1428", stroke="#26365e", r=14):
 def main():
     today = dt.date.today()
     from_date = today - dt.timedelta(days=365)
+    refreshed = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     query = """
     query($login:String!, $from:DateTime!, $to:DateTime!) {
       user(login:$login) {
@@ -102,7 +103,6 @@ def main():
     top_langs = sorted(language_bytes.items(), key=lambda x: x[1], reverse=True)[:5]
     lang_total = sum(language_bytes.values()) or 1
 
-    # Last 26 weeks for a compact activity heatmap.
     recent_days = sorted(days, key=lambda x: x["date"])[-182:]
     max_count = max([int(d["contributionCount"]) for d in recent_days] + [1])
 
@@ -111,7 +111,8 @@ def main():
     out.append('<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080b18"/><stop offset="1" stop-color="#11162a"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6c5ce7"/><stop offset="1" stop-color="#25c8ff"/></linearGradient></defs>')
     out.append('<rect width="1200" height="820" rx="22" fill="url(#bg)" stroke="#34456f"/>')
     out.append(svg_text(42, 58, "📊 GitHub Dashboard", 30, "#ffffff", "700"))
-    out.append(svg_text(42, 88, "Live profile metrics generated automatically from GitHub.", 15, "#aeb9d9"))
+    out.append(svg_text(42, 88, "Live profile metrics generated from GitHub data.", 15, "#aeb9d9"))
+    out.append(svg_text(1158, 55, f"Refreshed {refreshed}", 11, "#7180a6", "400", "end"))
 
     cards = [
         ("TOTAL CONTRIBUTIONS", total, "Last 12 months", "#36d399"),
@@ -126,7 +127,6 @@ def main():
         out.append(svg_text(x + 18, 184, value, 30, accent, "700"))
         out.append(svg_text(x + 18, 207, sub, 12, "#b9c4e2"))
 
-    # Contribution heatmap
     out.append(round_rect(42, 245, 520, 300))
     out.append(svg_text(62, 278, "Contribution Activity", 19, "#ffffff", "700"))
     start_x, start_y, cell, gap = 66, 310, 12, 3
@@ -153,7 +153,6 @@ def main():
         out.append(f'<rect x="{102+j*20}" y="432" width="14" height="14" rx="3" fill="{c}"/>')
     out.append(svg_text(212, 442, "More", 11, "#8490b0"))
 
-    # Top languages
     out.append(round_rect(582, 245, 270, 300))
     out.append(svg_text(602, 278, "Top Languages", 19, "#ffffff", "700"))
     lang_accents = ["#36a2ff", "#ffd84d", "#ff7655", "#9b6cff", "#8e9bb9"]
@@ -166,7 +165,6 @@ def main():
         out.append(f'<rect x="705" y="{y-13}" width="{115*pct/100:.1f}" height="10" rx="5" fill="{lang_accents[i]}"/>')
         out.append(svg_text(832, y, f"{pct:.1f}%", 11, "#9eabd0", "700", "end"))
 
-    # Recent activity line graph
     out.append(round_rect(872, 245, 286, 300))
     out.append(svg_text(892, 278, "Activity Graph", 19, "#ffffff", "700"))
     graph_days = recent_days[-84:]
