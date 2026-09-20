@@ -1,202 +1,376 @@
-<!-- ====================================================== -->
-<!--                  PREMIUM AI PROFILE                     -->
-<!-- ====================================================== -->
-
-<p align="center"><img src="assets/banner.png" width="100%" alt="Akhilesh Reddy Banner"/></p>
-
-<h1 align="center">👋 Hi, I'm Akhilesh Reddy Thirumala Reddy</h1>
-<h3 align="center">Artificial Intelligence & Machine Learning Engineer</h3>
-
-<p align="center">Building intelligent products through <b>Machine Learning</b>, <b>Computer Vision</b>, <b>Generative AI</b>, and <b>Agentic AI</b>.</p>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=1200&color=00E7FF&center=true&vCenter=true&width=800&lines=Building+CreatorOS...;Developing+OmniMind...;Engineering+FindBuddy...;Exploring+Agentic+AI...;Open+to+AI+Internships" alt="Typing animation"/></p>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║  AKHILESH REDDY THIRUMALA REDDY                                    ║
+║  AI / ML • COMPUTER VISION • AGENTIC AI • AUTOMATION                ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 
 <p align="center">
-<a href="mailto:thirumalareddyakhileshreddy2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/akhilesh-reddy-thirumala-reddy-051686399/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/akhileshreddy11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://raw.githubusercontent.com/akhileshreddy11/akhileshreddy11/main/resume/Akhilesh_Reddy-Resume.pdf"><img src="https://img.shields.io/badge/📄%20Resume-0A66C2?style=for-the-badge" alt="Resume"/></a>
+  <img src="assets/banner.png" width="100%" alt="Akhilesh Reddy — Artificial Intelligence and Machine Learning"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/akhileshreddy11">
+    <img src="https://img.shields.io/badge/GitHub-akhileshreddy11-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akhilesh-reddy-thirumala-reddy-051686399/">
+    <img src="https://img.shields.io/badge/LinkedIn-Akhilesh%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thirumalareddyakhileshreddy2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/akhileshreddy11/akhileshreddy11/main/resume/Akhilesh_Reddy-Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Student+%7C+Builder+%7C+Problem+Solver;Building+CreatorOS+%E2%80%94+an+AI-powered+creator+operating+system;Exploring+Agentic+AI%2C+RAG%2C+Computer+Vision+%26+Automation;Turning+AI+ideas+into+working+software"/>
 </p>
 
 ---
 
-## 🧠 AI Snapshot
+# 👋 Hi, I'm Akhilesh
 
-<div align="center">
+I'm a **B.Tech CSE (AI & ML) student at Mahatma Gandhi Institute of Technology (MGIT)** focused on building practical AI systems.
 
-| | |
-|:---|:---|
-| 🟢 **Status** | Open to AI Internships |
-| 🚀 **Flagship Build** | CreatorOS |
-| 🤖 **AI Platform** | OmniMind |
-| 🔍 **Computer Vision** | FindBuddy |
-| 🧠 **Learning** | Agentic AI • RAG • MLOps |
-| 🎓 **Education** | B.Tech CSE (AI & ML), MGIT |
-| 📍 **Location** | Hyderabad, India |
+My work sits at the intersection of:
 
-</div>
+**Machine Learning · Deep Learning · Computer Vision · Generative AI · Agentic AI · Automation · Backend Engineering**
+
+I enjoy taking an idea from **problem → architecture → model → API → product**.
+
+> **Build systems. Learn deeply. Ship useful things.**
 
 ---
 
-## 🚀 Featured AI Projects
-
-<p align="center">Selected projects demonstrating practical AI engineering across intelligent agents, computer vision, deep learning, and developer tooling.</p>
+## 🧭 What I'm Working Toward
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h2 align="center">⚡ CreatorOS</h2>
-<p align="center"><a href="https://github.com/akhileshreddy11/CreatorOS"><img src="assets/projects/creatoros.svg" width="100%" alt="CreatorOS"/></a></p>
-<p align="center"><b>AI-Powered Creator Operating System</b><br/>Coordinates AI employees, missions, content workflows, product workflows, and intelligent automation.</p>
-<p align="center"><b>AI Agents • Automation • Mission System • Content • Products</b></p>
-<p align="center"><a href="https://github.com/akhileshreddy11/CreatorOS"><img src="https://img.shields.io/badge/Explore%20CreatorOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore CreatorOS"/></a></p>
+<td width="25%" align="center">
+<h3>🤖 AI Engineering</h3>
+<p>Building intelligent systems that connect models with real applications.</p>
 </td>
-<td width="50%" valign="top">
-<h2 align="center">🧠 OmniMind</h2>
-<p align="center"><b>Multi-Agent AI Platform</b></p>
-<p align="center"><img src="assets/projects/omnimind.png" width="100%" alt="OmniMind"/></p>
-<p align="center">A platform being developed around intelligent agents, memory, reasoning, automation, and real-world AI workflows.</p>
-<p align="center"><b>Python • FastAPI • LangChain • Vector Database</b></p>
-<p align="center"><img src="https://img.shields.io/badge/Coming%20Soon-6C63FF?style=for-the-badge" alt="Coming Soon"/></p>
+<td width="25%" align="center">
+<h3>🧠 Agentic AI</h3>
+<p>Exploring agents, memory, reasoning, tool use and multi-agent workflows.</p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h2 align="center">🔍 FindBuddy</h2>
-<p align="center"><img src="assets/projects/findbuddy.png" width="100%" alt="FindBuddy"/></p>
-<p align="center"><b>AI-Powered Missing Person Identification System</b><br/>Uses computer vision and face-recognition techniques to assist with identifying missing individuals.</p>
-<p align="center"><b>Python • Flask • OpenCV • TensorFlow • PostgreSQL</b></p>
-<p align="center"><a href="https://github.com/akhileshreddy11/missing_person-ai"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="FindBuddy repository"/></a></p>
+<td width="25%" align="center">
+<h3>👁️ Computer Vision</h3>
+<p>Developing image-based systems for recognition, classification and detection.</p>
 </td>
-<td width="50%" valign="top">
-<h2 align="center">🌱 Crop Disease AI</h2>
-<p align="center"><img src="assets/projects/crop-disease-ai.png" width="100%" alt="Crop Disease AI"/></p>
-<p align="center"><b>AI-Powered Crop Disease Detection System</b><br/>Deep-learning application that identifies plant diseases from leaf images and predicts the disease class.</p>
-<p align="center"><b>Python • TensorFlow • Flask • OpenCV • CNN</b></p>
-<p align="center"><a href="https://github.com/akhileshreddy11/Crop_disease_detection"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Crop Disease repository"/></a></p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<h2 align="center">📄 AI Code Documentation Generator</h2>
-<p align="center"><img src="assets/projects/codedoc-ai.png" width="72%" alt="AI Code Documentation Generator"/></p>
-<p align="center"><b>AI-Powered Developer Documentation Assistant</b><br/>Analyzes source code and generates structured developer-friendly documentation with grammar refinement and export support.</p>
-<p align="center"><b>Python • Flask • NLP • HTML • CSS • JavaScript</b></p>
-<p align="center"><a href="https://github.com/akhileshreddy11/Ai-document-generator"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation Generator repository"/></a></p>
+<td width="25%" align="center">
+<h3>⚙️ Automation</h3>
+<p>Turning repetitive workflows into intelligent, automated processes.</p>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🎯 AI Engineering Philosophy
+# 🚀 Featured Projects
 
-<p align="center"><b>I focus on turning AI concepts into usable products rather than isolated experiments.</b></p>
-
-<p align="center"><b>Agents • Vision • Automation • Developer Tools • Real-World AI</b></p>
+## ⚡ CreatorOS
 
 <p align="center">
-<img src="https://img.shields.io/badge/BUILD-555555?style=for-the-badge" alt="Build"/>
-<img src="https://img.shields.io/badge/LEARN-00C9FF?style=for-the-badge" alt="Learn"/>
-<img src="https://img.shields.io/badge/SHIP-555555?style=for-the-badge" alt="Ship"/>
-<img src="https://img.shields.io/badge/IMPROVE-6C63FF?style=for-the-badge" alt="Improve"/>
+  <a href="https://github.com/akhileshreddy11/CreatorOS">
+    <img src="assets/projects/creatoros.svg" width="96%" alt="CreatorOS"/>
+  </a>
+</p>
+
+**CreatorOS** is an AI-powered creator operating system designed around **AI employees, missions, workflows and intelligent automation**.
+
+**Focus:** AI Employees · Mission Execution · Content Workflows · Product Workflows · Automation
+
+<p align="center">
+  <a href="https://github.com/akhileshreddy11/CreatorOS">
+    <img src="https://img.shields.io/badge/EXPLORE%20CREATOROS-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ Technology Stack
-
-<p align="center">Technologies I use to build intelligent applications.</p>
-
-<h3 align="center">🤖 AI & Machine Learning</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI and machine learning technologies"/></p>
-<p align="center">Machine Learning • Deep Learning • Computer Vision • CNN • NLP • Generative AI</p>
-
-<h3 align="center">🌐 Development</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,nextjs,react,html,css,flask,fastapi" alt="Development technologies"/></p>
-
-<h3 align="center">🗄️ Data & Infrastructure</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux,git,github" alt="Data and infrastructure technologies"/></p>
-
-<h3 align="center">🧠 AI Engineering Focus</h3>
-<p align="center"><img src="https://img.shields.io/badge/Agentic_AI-0A66C2?style=for-the-badge" alt="Agentic AI"/> <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/Multi--Agent_Systems-6C63FF?style=for-the-badge" alt="Multi-Agent Systems"/> <img src="https://img.shields.io/badge/MLOps-8E24AA?style=for-the-badge" alt="MLOps"/> <img src="https://img.shields.io/badge/AI_Automation-00A65A?style=for-the-badge" alt="AI Automation"/></p>
-
----
-
-## 🏆 Professional Certifications
-
-<p align="center">Certifications, internships, training programs, and hackathon participation across AI, cybersecurity, enterprise technologies, and software development.</p>
-
-<table>
-<tr>
-<td width="50%" valign="top"><h3 align="center">🤖 IBM — AI Fundamentals</h3><p align="center">Artificial Intelligence Fundamentals</p><p align="center"><a href="https://github.com/akhileshreddy11/Certifications/blob/main/IBM%20AI/IBM%20AI.pdf"><img src="https://img.shields.io/badge/IBM-View%20Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM certificate"/></a></p></td>
-<td width="50%" valign="top"><h3 align="center">🌐 Cisco — AI Fundamentals</h3><p align="center">AI Fundamentals with IBM SkillsBuild</p><p align="center"><a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/ai%20fundamentals.pdf"><img src="https://img.shields.io/badge/Cisco-View%20Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco AI certificate"/></a></p></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h3 align="center">📄 Cisco — Apply AI</h3><p align="center">Update Your Resume</p><p align="center"><a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/Ai_Application.pdf"><img src="https://img.shields.io/badge/View%20Certificate-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cisco Apply AI certificate"/></a></p></td>
-<td width="50%" valign="top"><h3 align="center">⭐ Cisco — Apply AI</h3><p align="center">Analyze Customer Reviews</p><p align="center"><a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/Customer_reviews_AI.pdf"><img src="https://img.shields.io/badge/View%20Certificate-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cisco customer reviews certificate"/></a></p></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h3 align="center">🔐 Cisco — Cybersecurity</h3><p align="center">Introduction to Cybersecurity</p><p align="center"><a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/CISCO%20CYBER%20SECURITY.pdf"><img src="https://img.shields.io/badge/View%20Certificate-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cisco cybersecurity certificate"/></a></p></td>
-<td width="50%" valign="top"><h3 align="center">🇮🇳 INDIAai — Yuva AI for All</h3><p align="center">AI learning initiative</p><p align="center"><a href="https://github.com/akhileshreddy11/Certifications/blob/main/IndiaAI/Akhilesh_reddy_402293.pdf"><img src="https://img.shields.io/badge/INDIAai-View%20Certificate-FF6F00?style=for-the-badge" alt="INDIAai certificate"/></a></p></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h3 align="center">💼 ServiceNow</h3><p align="center">Virtual Internship Program</p><p align="center"><a href="https://github.com/akhileshreddy11/Certifications/blob/main/ServiceNow/ServiceNow_certificate.pdf"><img src="https://img.shields.io/badge/ServiceNow-View%20Certificate-00A65A?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow certificate"/></a></p></td>
-<td width="50%" valign="top"><h3 align="center">🚀 iStudio — AI Internship</h3><p align="center">Artificial Intelligence Internship</p><p align="center"><a href="https://github.com/akhileshreddy11/Certifications/blob/main/iStudio/istudio_internship.pdf"><img src="https://img.shields.io/badge/iStudio-View%20Certificate-FF7A00?style=for-the-badge" alt="iStudio internship certificate"/></a></p></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h3 align="center">🎓 iStudio — AI Training</h3><p align="center">Artificial Intelligence Training</p><p align="center"><a href="https://github.com/akhileshreddy11/Certifications/blob/main/iStudio/istudio_Training.pdf"><img src="https://img.shields.io/badge/iStudio-View%20Certificate-FF7A00?style=for-the-badge" alt="iStudio training certificate"/></a></p></td>
-<td width="50%" valign="top"><h3 align="center">🏆 Cognizant Technoverse 2026</h3><p align="center">Hackathon Participation</p><p align="center"><a href="https://github.com/akhileshreddy11/Certifications/blob/main/cognizant/cognizant_participation.pdf"><img src="https://img.shields.io/badge/Cognizant-View%20Certificate-0033A0?style=for-the-badge" alt="Cognizant certificate"/></a></p></td>
-</tr>
-</table>
-
-<p align="center"><a href="https://github.com/akhileshreddy11/Certifications"><img src="https://img.shields.io/badge/📂%20Explore%20Full%20Certification%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Certification repository"/></a></p>
-
----
-
-## 📊 GitHub Dashboard
-
-<p align="center"><img src="assets/github-dashboard.svg" width="100%" alt="Automatically generated GitHub dashboard showing contributions, streak, repository stars, languages and activity"/></p>
-
-<p align="center"><i>The dashboard is refreshed automatically by GitHub Actions.</i></p>
-
----
-
-## 🛠️ Currently Building
-
-<table>
-<tr>
-<td width="33%" align="center"><h3>⚡ CreatorOS</h3>AI-powered creator workflows, missions, and intelligent employee orchestration.</td>
-<td width="33%" align="center"><h3>🧠 OmniMind</h3>Multi-agent architecture with memory, reasoning, and automation.</td>
-<td width="33%" align="center"><h3>🔬 AI Engineering</h3>Agentic AI, RAG, MLOps, computer vision, and AI systems.</td>
-</tr>
-</table>
-
----
-
-## 🎓 Journey & Direction
-
-<div align="center">
-
-| | |
-|:---|:---|
-| 🎓 **Education** | B.Tech CSE (AI & ML), Mahatma Gandhi Institute of Technology (MGIT) |
-| 📍 **Based In** | Hyderabad, India |
-| 💡 **Interests** | AI Engineering • Computer Vision • Generative AI • Agentic AI |
-| 🎯 **Goal** | Build reliable AI products that solve meaningful real-world problems |
-| 🚀 **Approach** | Learn → Build → Test → Deploy → Improve |
-
-</div>
-
----
-
-## 🌍 Let's Connect
+## 🧠 OmniMind
 
 <p align="center">
-<a href="mailto:thirumalareddyakhileshreddy2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/akhilesh-reddy-thirumala-reddy-051686399/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/akhileshreddy11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://raw.githubusercontent.com/akhileshreddy11/akhileshreddy11/main/resume/Akhilesh_Reddy-Resume.pdf"><img src="https://img.shields.io/badge/📄%20Resume-0A66C2?style=for-the-badge" alt="Resume"/></a>
+  <img src="assets/projects/omnimind.png" width="92%" alt="OmniMind"/>
 </p>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=akhileshreddy11&style=for-the-badge&color=6C63FF" alt="Profile views"/><br><br><b>⭐ Thanks for visiting my profile!</b><br><br><i>Building AI solutions that move from ideas to real-world impact.</i><br><br><b>Akhilesh Reddy Thirumala Reddy</b></div>
+A platform being developed around **intelligent agents, memory, reasoning, automation and real-world AI workflows**.
+
+**Direction:** Multi-Agent Systems · Memory · Reasoning · AI Workflows
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-7C3AED?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔍 FindBuddy
+
+<p align="center">
+  <img src="assets/projects/findbuddy.png" width="92%" alt="FindBuddy — AI-powered missing person identification system"/>
+</p>
+
+An **AI-powered missing person identification system** exploring computer vision and face-recognition techniques for matching a known person image against captured images/video.
+
+**Stack:** Python · Flask · OpenCV · TensorFlow · DeepFace · PostgreSQL
+
+<p align="center">
+  <a href="https://github.com/akhileshreddy11/missing_person-ai">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🌱 Crop Disease Detection
+
+<p align="center">
+  <img src="assets/projects/crop-disease-ai.png" width="92%" alt="Crop Disease Detection"/>
+</p>
+
+A deep-learning application for identifying **plant diseases from leaf images** using image preprocessing and CNN-based classification.
+
+**Stack:** Python · TensorFlow · Keras · OpenCV · CNN
+
+<p align="center">
+  <a href="https://github.com/akhileshreddy11/Crop_disease_detection">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📄 AI Code Documentation Generator
+
+<p align="center">
+  <img src="assets/projects/codedoc-ai.png" width="82%" alt="AI Code Documentation Generator"/>
+</p>
+
+An AI-assisted developer tool that **analyzes source code and generates structured documentation**, combining NLP, code processing and a web interface.
+
+**Stack:** Python · Flask · NLP · HTML · CSS · JavaScript
+
+<p align="center">
+  <a href="https://github.com/akhileshreddy11/Ai-document-generator">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🛠️ Technology Stack
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI technologies"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNN-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=flat-square"/>
+</p>
+
+### 🌐 Development
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,flask,fastapi,nodejs" alt="Development technologies"/>
+</p>
+
+### 🗄️ Data / Backend / Tools
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,linux,git,github" alt="Data and engineering technologies"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLOps-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
+</p>
+
+---
+
+# 🧩 Engineering Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 — Intelligent Systems
+- Machine learning pipelines
+- Deep-learning models
+- Computer-vision applications
+- Model evaluation and preprocessing
+- AI-backed APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — AI Products
+- Agentic workflows
+- Multi-agent architecture
+- Automation
+- Developer tools
+- AI-first product experiences
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<b>Problem → Data → Model → API → Product → Feedback → Improvement</b>
+</p>
+
+---
+
+# 📜 Certifications & Programs
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 IBM
+**AI Fundamentals**  
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/IBM%20AI/IBM%20AI.pdf">View Certificate →</a>
+
+### 🌐 Cisco
+**AI Fundamentals**  
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/ai%20fundamentals.pdf">View Certificate →</a>
+
+### 📄 Cisco
+**Apply AI: Update Your Resume**  
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/Ai_Application.pdf">View Certificate →</a>
+
+### ⭐ Cisco
+**Apply AI: Analyze Customer Reviews**  
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/Customer_reviews_AI.pdf">View Certificate →</a>
+
+### 🔐 Cisco
+**Introduction to Cybersecurity**  
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/Cisco/CISCO%20CYBER%20SECURITY.pdf">View Certificate →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🇮🇳 INDIAai
+**Yuva AI for All**  
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/IndiaAI/Akhilesh_reddy_402293.pdf">View Certificate →</a>
+
+### 💼 ServiceNow
+**Virtual Internship Program**  
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/ServiceNow/ServiceNow_certificate.pdf">View Certificate →</a>
+
+### 🚀 iStudio
+**Artificial Intelligence Internship**  
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/iStudio/istudio_internship.pdf">View Certificate →</a>
+
+### 🎓 iStudio
+**Artificial Intelligence Training**  
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/iStudio/istudio_Training.pdf">View Certificate →</a>
+
+### 🏆 Cognizant
+**Technoverse Hackathon 2026 — Participation**  
+<a href="https://github.com/akhileshreddy11/Certifications/blob/main/cognizant/cognizant_participation.pdf">View Certificate →</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/akhileshreddy11/Certifications">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20CERTIFICATIONS-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub — Live Activity
+
+<p align="center">
+  <img src="assets/github-dashboard.svg" width="100%" alt="Automatically generated GitHub activity dashboard"/>
+</p>
+
+<p align="center">
+  <sub>Dashboard generated from GitHub activity and refreshed automatically through GitHub Actions.</sub>
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhileshreddy11/akhileshreddy11/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake"/>
+</p>
+
+---
+
+# 📈 My Development Loop
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01%20DISCOVER-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/02%20DESIGN-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/03%20BUILD-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/04%20TEST-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/05%20SHIP-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/06%20IMPROVE-111827?style=for-the-badge"/>
+</p>
+
+> I don't want AI to remain a demo.  
+> I want to understand the system behind it, build the software around it, and turn it into something people can actually use.
+
+---
+
+# 🔭 Currently Building
+
+| Project | Direction |
+|---|---|
+| ⚡ **CreatorOS** | AI employees, missions, content workflows, product workflows and automation |
+| 🧠 **OmniMind** | Agents, memory, reasoning and intelligent AI workflows |
+| 👁️ **Computer Vision Systems** | Recognition, classification and image-based AI applications |
+| ⚙️ **AI Engineering** | Agentic AI, RAG, automation and production-oriented AI development |
+
+---
+
+# 🎓 Education
+
+**Mahatma Gandhi Institute of Technology (MGIT)**  
+**B.Tech — Computer Science & Engineering (Artificial Intelligence & Machine Learning)**  
+Expected Graduation: **2027**
+
+---
+
+# 🌍 Let's Connect
+
+<p align="center">
+  <a href="mailto:thirumalareddyakhileshreddy2@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akhilesh-reddy-thirumala-reddy-051686399/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/akhileshreddy11">
+    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/akhileshreddy11/akhileshreddy11/main/resume/Akhilesh_Reddy-Resume.pdf">
+    <img src="https://img.shields.io/badge/RESUME-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhileshreddy11&style=for-the-badge&color=7C3AED" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <b>AI / ML • Computer Vision • Agentic AI • Automation</b>
+  <br/>
+  <sub>Building from ideas to intelligent products.</sub>
+</p>
