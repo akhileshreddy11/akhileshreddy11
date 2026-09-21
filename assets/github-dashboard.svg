@@ -22,10 +22,10 @@
 <text x="44" y="116" fill="#9aa8ca" font-family="Inter,Arial,Helvetica,sans-serif" font-size="14px" font-weight="400" text-anchor="start">Real GitHub data • automatically refreshed by GitHub Actions</text>
 <circle cx="1090" cy="76" r="6" fill="#32e68b"/>
 <text x="1106" y="81" fill="#6ff0a7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="12px" font-weight="700" text-anchor="start">LIVE DATA</text>
-<text x="1156" y="112" fill="#66779e" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="400" text-anchor="end">Updated 2026-09-21 13:53 UTC</text>
+<text x="1156" y="112" fill="#66779e" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="400" text-anchor="end">Updated 2026-09-21 18:56 UTC</text>
 <rect x="44" y="145" width="350" height="94" rx="15" fill="#0a1020" stroke="#2de28a" stroke-width="1"/>
 <text x="62" y="172" fill="#7f8caf" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="700" text-anchor="start">CONTRIBUTIONS</text>
-<text x="62" y="210" fill="#2de28a" font-family="Inter,Arial,Helvetica,sans-serif" font-size="28px" font-weight="700" text-anchor="start">176</text>
+<text x="62" y="210" fill="#2de28a" font-family="Inter,Arial,Helvetica,sans-serif" font-size="28px" font-weight="700" text-anchor="start">127</text>
 <text x="370" y="209" fill="#9ba8c7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="400" text-anchor="end">12 months</text>
 <rect x="420" y="145" width="350" height="94" rx="15" fill="#0a1020" stroke="#2bd7ff" stroke-width="1"/>
 <text x="438" y="172" fill="#7f8caf" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="700" text-anchor="start">STREAK</text>
@@ -37,7 +37,7 @@
 <text x="1122" y="209" fill="#9ba8c7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="400" text-anchor="end">days</text>
 <rect x="44" y="257" width="350" height="94" rx="15" fill="#0a1020" stroke="#a980ff" stroke-width="1"/>
 <text x="62" y="284" fill="#7f8caf" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="700" text-anchor="start">REPOSITORIES</text>
-<text x="62" y="322" fill="#a980ff" font-family="Inter,Arial,Helvetica,sans-serif" font-size="28px" font-weight="700" text-anchor="start">7</text>
+<text x="62" y="322" fill="#a980ff" font-family="Inter,Arial,Helvetica,sans-serif" font-size="28px" font-weight="700" text-anchor="start">6</text>
 <text x="370" y="321" fill="#9ba8c7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="400" text-anchor="end">public</text>
 <rect x="420" y="257" width="350" height="94" rx="15" fill="#0a1020" stroke="#ff78b7" stroke-width="1"/>
 <text x="438" y="284" fill="#7f8caf" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="700" text-anchor="start">STARS</text>
@@ -184,7 +184,7 @@
 <rect x="374" y="557" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="374" y="574" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="391" y="472" width="14" height="14" rx="3" fill="#1d8a63"/>
-<rect x="391" y="489" width="14" height="14" rx="3" fill="#214f45"/>
+<rect x="391" y="489" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="391" y="506" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="391" y="523" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="391" y="540" width="14" height="14" rx="3" fill="#17213a"/>
@@ -218,16 +218,16 @@
 <rect x="459" y="540" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="459" y="557" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="459" y="574" width="14" height="14" rx="3" fill="#17213a"/>
-<rect x="476" y="472" width="14" height="14" rx="3" fill="#20c878"/>
-<rect x="476" y="489" width="14" height="14" rx="3" fill="#214f45"/>
-<rect x="476" y="506" width="14" height="14" rx="3" fill="#1d8a63"/>
+<rect x="476" y="472" width="14" height="14" rx="3" fill="#214f45"/>
+<rect x="476" y="489" width="14" height="14" rx="3" fill="#17213a"/>
+<rect x="476" y="506" width="14" height="14" rx="3" fill="#214f45"/>
 <rect x="476" y="523" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="476" y="540" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="476" y="557" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="476" y="574" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="493" y="472" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="493" y="489" width="14" height="14" rx="3" fill="#17213a"/>
-<rect x="493" y="506" width="14" height="14" rx="3" fill="#214f45"/>
+<rect x="493" y="506" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="493" y="523" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="493" y="540" width="14" height="14" rx="3" fill="#17213a"/>
 <rect x="493" y="557" width="14" height="14" rx="3" fill="#214f45"/>
@@ -245,33 +245,13 @@
 <circle cx="710" cy="476" r="5" fill="#3aa7ff"/>
 <text x="724" y="480" fill="#e7ebf7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="12px" font-weight="700" text-anchor="start">Python</text>
 <rect x="820" y="469" width="245" height="8" rx="4" fill="#1c2741"/>
-<rect x="820" y="469" width="142.4" height="8" rx="4" fill="#3aa7ff"/>
-<text x="1132" y="480" fill="#98a7c8" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="700" text-anchor="end">58.1%</text>
+<rect x="820" y="469" width="186.0" height="8" rx="4" fill="#3aa7ff"/>
+<text x="1132" y="480" fill="#98a7c8" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="700" text-anchor="end">75.9%</text>
 <circle cx="710" cy="503" r="5" fill="#ffd34e"/>
-<text x="724" y="507" fill="#e7ebf7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="12px" font-weight="700" text-anchor="start">TypeScript</text>
+<text x="724" y="507" fill="#e7ebf7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="12px" font-weight="700" text-anchor="start">HTML</text>
 <rect x="820" y="496" width="245" height="8" rx="4" fill="#1c2741"/>
-<rect x="820" y="496" width="94.4" height="8" rx="4" fill="#ffd34e"/>
-<text x="1132" y="507" fill="#98a7c8" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="700" text-anchor="end">38.5%</text>
-<circle cx="710" cy="530" r="5" fill="#ff745d"/>
-<text x="724" y="534" fill="#e7ebf7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="12px" font-weight="700" text-anchor="start">HTML</text>
-<rect x="820" y="523" width="245" height="8" rx="4" fill="#1c2741"/>
-<rect x="820" y="523" width="4.3" height="8" rx="4" fill="#ff745d"/>
-<text x="1132" y="534" fill="#98a7c8" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="700" text-anchor="end">1.8%</text>
-<circle cx="710" cy="557" r="5" fill="#a57cff"/>
-<text x="724" y="561" fill="#e7ebf7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="12px" font-weight="700" text-anchor="start">CSS</text>
-<rect x="820" y="550" width="245" height="8" rx="4" fill="#1c2741"/>
-<rect x="820" y="550" width="2.5" height="8" rx="4" fill="#a57cff"/>
-<text x="1132" y="561" fill="#98a7c8" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="700" text-anchor="end">1.0%</text>
-<circle cx="710" cy="584" r="5" fill="#41d39a"/>
-<text x="724" y="588" fill="#e7ebf7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="12px" font-weight="700" text-anchor="start">PowerShell</text>
-<rect x="820" y="577" width="245" height="8" rx="4" fill="#1c2741"/>
-<rect x="820" y="577" width="1.0" height="8" rx="4" fill="#41d39a"/>
-<text x="1132" y="588" fill="#98a7c8" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="700" text-anchor="end">0.4%</text>
-<circle cx="710" cy="611" r="5" fill="#8b98b8"/>
-<text x="724" y="615" fill="#e7ebf7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="12px" font-weight="700" text-anchor="start">JavaScript</text>
-<rect x="820" y="604" width="245" height="8" rx="4" fill="#1c2741"/>
-<rect x="820" y="604" width="0.3" height="8" rx="4" fill="#8b98b8"/>
-<text x="1132" y="615" fill="#98a7c8" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="700" text-anchor="end">0.1%</text>
+<rect x="820" y="496" width="59.0" height="8" rx="4" fill="#ffd34e"/>
+<text x="1132" y="507" fill="#98a7c8" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="700" text-anchor="end">24.1%</text>
 <rect x="44" y="684" width="1112" height="172" rx="16" fill="#0d1428" stroke="#25365d" stroke-width="1"/>
 <text x="64" y="716" fill="#ffffff" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18px" font-weight="700" text-anchor="start">Recent GitHub Activity</text>
 <circle cx="252" cy="710" r="5" fill="#31e58b"/>
@@ -291,11 +271,11 @@
 <text x="513" y="807" fill="#7181a4" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="400" text-anchor="start">2026-09-20</text>
 <rect x="718" y="742" width="202" height="88" rx="12" fill="#0b1223" stroke="#223352" stroke-width="1"/>
 <text x="731" y="765" fill="#dfe6f7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="700" text-anchor="start">Pushed code</text>
-<text x="731" y="786" fill="#6fcfff" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="400" text-anchor="start">CreatorOS</text>
-<text x="731" y="807" fill="#7181a4" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="400" text-anchor="start">2026-09-17</text>
+<text x="731" y="786" fill="#6fcfff" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="400" text-anchor="start">akhileshreddy11</text>
+<text x="731" y="807" fill="#7181a4" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="400" text-anchor="start">2026-09-10</text>
 <rect x="936" y="742" width="202" height="88" rx="12" fill="#0b1223" stroke="#223352" stroke-width="1"/>
 <text x="949" y="765" fill="#dfe6f7" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="700" text-anchor="start">Pushed code</text>
-<text x="949" y="786" fill="#6fcfff" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="400" text-anchor="start">CreatorOS</text>
-<text x="949" y="807" fill="#7181a4" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="400" text-anchor="start">2026-09-17</text>
+<text x="949" y="786" fill="#6fcfff" font-family="Inter,Arial,Helvetica,sans-serif" font-size="11px" font-weight="400" text-anchor="start">akhileshreddy11</text>
+<text x="949" y="807" fill="#7181a4" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="400" text-anchor="start">2026-09-10</text>
 <text x="600" y="880" fill="#5f6f94" font-family="Inter,Arial,Helvetica,sans-serif" font-size="10px" font-weight="400" text-anchor="middle">No hard-coded activity numbers • values are regenerated from GitHub APIs</text>
 </svg>
